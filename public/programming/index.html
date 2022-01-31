@@ -8,7 +8,7 @@
 </title>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<meta name="revised" content="2022-01-31T12:28:28 PST">
+<meta name="revised" content="2022-01-31T14:34:17 PST">
 <meta name="description" content="">
 
 
@@ -136,6 +136,21 @@
 
 <ul class="menu">
 
+    <li data-nav-id="http://frcmi.github.io/mechanical/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+        
+      
+          <a href="/mechanical/">Mechanical</a>
+      
+    </li>
+    
+
     <li data-nav-id="http://frcmi.github.io/programming/" class="dd-item parent active
         item_level_$level
         ">
@@ -147,21 +162,6 @@
         
       
           <a href="/programming/">Programming</a>
-      
-    </li>
-    
-
-    <li data-nav-id="http://frcmi.github.io/mechanical/" class="dd-item
-        item_level_$level
-        ">
-
-      
-      
-      
-      
-        
-      
-          <a href="/mechanical/">Mechanicals</a>
       
     </li>
     
@@ -198,12 +198,16 @@
       <section class="page ">
       
 	
-		
+	 
+	    
     
     
     <nav id="ariane" aria-label="breadcrumb">
       <ol class="ariane">
         
+  
+  	
+		
   
   	
 	<li >
@@ -213,9 +217,17 @@
     </li>
 	
   
+    <li class="">
+      <a class="text-link" href="/programming/">
+        Programming
+      </a>
+    </li>
+	
+  	
+  
     <li class="active">
       
-        Programming
+        Contributing to Git
       
     </li>
 
@@ -236,7 +248,7 @@
 		
 
 		
-			<h1>Programming</h1>
+			<h1>Programming<span>Contributing to Git</span></h1>
         
 
 			
@@ -247,13 +259,13 @@
 				<nav class="subpages">
 	            		
 	        			
-	            	<li >
-	            		<a title="$pagetitle" href="/programming/00-git/contributing-to-git/">Contributing to Git</a>
+	            	<li class="active">
+	            		<a title="$pagetitle" href="/programming/contributing-to-git/">Contributing to Git</a>
 	            	</li>
 	            		
 	        			
 	            	<li >
-	            		<a title="$pagetitle" href="/programming/01-firmware/updating-firmware/">Updating Firmware</a>
+	            		<a title="$pagetitle" href="/programming/updating-firmware/">Updating Firmware</a>
 	            	</li>
 	        	</nav> 
 		
@@ -269,10 +281,15 @@
 
 
 	<div class="content">
-	    <h2 ref="contributing-to-gitcontributing20to20gitmd" ><a href="Contributing%20to%20Git.md">Contributing to Git</a></h2><a class="anchor" id="contributing-to-gitcontributing20to20gitmd"></a>
-<p>This page teaches you how to develop features in your own branch and then merge them with the master</p>
-<h2 ref="updating-firmware01-firmwareupdating20firmwaremd" ><a href="01-Firmware/Updating%20Firmware.md">Updating Firmware</a></h2><a class="anchor" id="updating-firmware01-firmwareupdating20firmwaremd"></a>
-<p>This page teaches you how to upgrade board components' firmware</p>
+	    <ol>
+<li>Create your own branch in Github</li>
+<li>Write your feature</li>
+<li>Pull code from master/main branch and rebase</li>
+</ol>
+<pre tabindex="0"><code>git pull origin main --rebase
+</code></pre><ol start="4">
+<li>Follow prompts in files mentioned in output</li>
+</ol>
 
 		</div>
 
@@ -283,14 +300,15 @@
 
 	 
 	<div class="chevrons">
-		<a class="next" href="/mechanical/" title="Mechanicals" style="margin-right: 0px;">
+		<a class="next" href="/systems/" title="Systems" style="margin-right: 0px;">
             <div>
                 <p>Next page</p>
-                <label>Mechanicals</label>
+                <label>Systems</label>
             </div>
             <i class="fas fa-arrow-right" style="font-size: 1.7em"></i></a>
 	</div>
 	
+	 
 	
 
       </section>
