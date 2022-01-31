@@ -2,6 +2,6 @@
 description: ""
 hide: 
   - toc
-title: Programming
+title: Mechanical
 weight: 30
 ---

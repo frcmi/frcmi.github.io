@@ -1,4 +1,10 @@
-# Updating Firmware:
+---
+description: ""
+hide: 
+  - toc
+title: Updating Firmware
+weight: 30
+---
 1. Plug RoboRio USB-B - USB-A cable into laptop
 
 2. Open Phoenix Tuner
