@@ -2,7 +2,7 @@
 description: ""
 hide: 
   - toc
-title: 5937 Docs
+title: Home
 weight: 30
 ---
 # Team 5937 Documentation

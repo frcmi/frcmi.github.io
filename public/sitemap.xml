@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://frcmi.github.io/</loc>
+    <loc>/programming/contributing-to-git/</loc>
   </url><url>
-    <loc>http://frcmi.github.io/programming/contributing-to-git/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>http://frcmi.github.io/mechanical/</loc>
+    <loc>/mechanical/</loc>
   </url><url>
-    <loc>http://frcmi.github.io/programming/</loc>
+    <loc>/programming/</loc>
   </url><url>
-    <loc>http://frcmi.github.io/systems/</loc>
+    <loc>/systems/</loc>
   </url><url>
-    <loc>http://frcmi.github.io/programming/updating-firmware/</loc>
+    <loc>/programming/updating-firmware/</loc>
   </url><url>
-    <loc>http://frcmi.github.io/_layout/footer/</loc>
+    <loc>/_layout/footer/</loc>
   </url><url>
-    <loc>http://frcmi.github.io/_layout/</loc>
+    <loc>/_layout/</loc>
   </url><url>
-    <loc>http://frcmi.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://frcmi.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Team 5937 Docs</title>
-    <link>http://frcmi.github.io/programming/</link>
+    <link>/programming/</link>
     <description>Recent content in Programming on Team 5937 Docs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://frcmi.github.io/programming/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contributing to Git</title>
-      <link>http://frcmi.github.io/programming/contributing-to-git/</link>
+      <link>/programming/contributing-to-git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://frcmi.github.io/programming/contributing-to-git/</guid>
+      <guid>/programming/contributing-to-git/</guid>
       <description> Create your own branch in Github Write your feature Pull code from master/main branch and rebase  git pull origin main --rebaseFollow prompts in files mentioned in output  </description>
     </item>
     
     <item>
       <title>Updating Firmware</title>
-      <link>http://frcmi.github.io/programming/updating-firmware/</link>
+      <link>/programming/updating-firmware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://frcmi.github.io/programming/updating-firmware/</guid>
+      <guid>/programming/updating-firmware/</guid>
       <description>Plug RoboRio USB-B - USB-A cable into laptop
   Open Phoenix Tuner
   Open Control Install (default tab)
