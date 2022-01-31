@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team 5937 Docs</title>
+    <link>http://frcmi.github.io/</link>
+    <description>Recent content on Team 5937 Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://frcmi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://frcmi.github.io/mechanical/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://frcmi.github.io/mechanical/test/</guid>
+      <description>Test </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://frcmi.github.io/programming/00-git/contributing-to-git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://frcmi.github.io/programming/00-git/contributing-to-git/</guid>
+      <description>Contributing to Git  Create your own branch in Github Write your feature Pull code from master/main branch and rebase  git pull origin main --rebaseFollow prompts in files mentioned in output  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://frcmi.github.io/programming/01-firmware/updating-firmware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://frcmi.github.io/programming/01-firmware/updating-firmware/</guid>
+      <description>Updating Firmware:   Plug RoboRio USB-B - USB-A cable into laptop
+  Open Phoenix Tuner
+  Open Control Install (default tab)
+  Run Diagnostic Server
+  Open CAN Devices tab
+  Check firmware version against latest in ctre firmware folder
+  The CTRE Firmware Folder can be downloaded from any CTRE product pageIf you can see devices follow the prompt in the bottom left, if not diagnose errors</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://frcmi.github.io/systems/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://frcmi.github.io/systems/test/</guid>
+      <description>Test </description>
+    </item>
+    
+  </channel>
+</rss>
