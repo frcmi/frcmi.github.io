@@ -1,0 +1,7 @@
+baseURL = 'http://frcmi.github.io/'
+languageCode = 'en-us'
+title = 'Team 5937 Docs'
+theme = "docport"
+
+[params]
+    color_main = "#737373"
