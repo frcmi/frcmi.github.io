@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Documentation for Mercer Island Robotics
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Mech Trello](https://trello.com/b/mX1nNAva/mechanical)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Programming Trello](https://trello.com/b/bYx8VdC0/programming)
 
+[Slack](https://app.slack.com/client/TES0YASTS/CESHPA3T6)
 
-[jekyll-organization]: https://github.com/jekyll
+[Github](https://github.com/frcmi)
