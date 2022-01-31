@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://frcmi.github.io/</loc>
+  </url><url>
     <loc>http://frcmi.github.io/programming/contributing-to-git/</loc>
   </url><url>
     <loc>http://frcmi.github.io/mechanical/</loc>
@@ -11,9 +13,6 @@
     <loc>http://frcmi.github.io/systems/</loc>
   </url><url>
     <loc>http://frcmi.github.io/programming/updating-firmware/</loc>
-  </url><url>
-    <loc>http://frcmi.github.io/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>http://frcmi.github.io/_layout/footer/</loc>
   </url><url>
