@@ -1,4 +1,4 @@
-baseURL = 'http://frcmi.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Team 5937 Docs'
 theme = "docport"
