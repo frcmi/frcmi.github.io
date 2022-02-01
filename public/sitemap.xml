@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/systems/component-manuals/</loc>
+  </url><url>
     <loc>/programming/contributing-to-git/</loc>
+  </url><url>
+    <loc>/systems/board-layout/</loc>
   </url><url>
     <loc>/</loc>
   </url><url>

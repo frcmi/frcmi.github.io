@@ -6,29 +6,5 @@
     <description>Recent content in Programming on Team 5937 Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/programming/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contributing to Git</title>
-      <link>/programming/contributing-to-git/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/programming/contributing-to-git/</guid>
-      <description> Create your own branch in Github Write your feature Pull code from master/main branch and rebase  git pull origin main --rebaseFollow prompts in files mentioned in output  </description>
-    </item>
-    
-    <item>
-      <title>Updating Firmware</title>
-      <link>/programming/updating-firmware/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/programming/updating-firmware/</guid>
-      <description>Plug RoboRio USB-B - USB-A cable into laptop
-  Open Phoenix Tuner
-  Open Control Install (default tab)
-  Run Diagnostic Server
-  Open CAN Devices tab
-  Check firmware version against latest in ctre firmware folder
-  The CTRE Firmware Folder can be downloaded from any CTRE product pageIf you can see devices follow the prompt in the bottom left, if not diagnose errors</description>
-    </item>
-    
   </channel>
 </rss>
