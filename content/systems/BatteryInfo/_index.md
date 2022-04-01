@@ -1,3 +1,10 @@
+---
+description: ""
+hide: 
+  - toc
+title: Battery Info
+weight: 30
+---
 # Battery Trouble? You're at the right place.
 Over the last year 5937 has learned of many useful resources about the Lead-Acid batteries we use in FRC, which we just want to quickly put here. This page will be expanded upon later.
 
